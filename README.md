@@ -15,8 +15,31 @@
 ## Getting Started
 
 #### Firstly you need to clone this repo / fork my repo.
-<p>Once done with that follow these steps</p>
-* Change your connection string in conn to your database - I filled in the connection string for you i made that into a templete for your :)
+
+## Mods
+
+##### in requirements.txt 
+````
+this is used for your python packages to be installed append a line for the pip install package
+````
+
+##### in Aptfile
+````
+this is used for your linux packages to be installed using apt-get
+
+append a line for the package you want to install
+````
+
+##### in pages
+
+````
+your HTML files go there
+````
+
+##### in static
+````
+your js,images,css,scss etc goes in there
+````
 
 #### Troubleshooting
 ````
