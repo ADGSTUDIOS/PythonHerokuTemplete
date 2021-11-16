@@ -41,11 +41,6 @@ your HTML files go there
 your js,images,css,scss etc goes in there
 ````
 
-#### Troubleshooting
-````
-if you see Connection Failed - Check your connection string and Database else, if successful congratulations you have done the most important step so far.
-````
-
 #### Deployment
 * Add the code to app.py which you are bootstrapping from else edit Proc to your app file
 * Fire up GitHub and upload the files to your repo.
