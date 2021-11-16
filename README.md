@@ -1,2 +1,3 @@
-# RahnMonitorRemastered
-Converting Rahn Monitor Desktop Application to a Web Interface
+# PythonHerokuTemplete
+
+Used to get started in Python, Django Web development.
