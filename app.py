@@ -19,3 +19,5 @@ def home():
 # Initialization of applications and run
 if __name__ == "__main__":
     app.run('localhost', debug=False)
+
+    
