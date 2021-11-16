@@ -2,10 +2,6 @@
 
 <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--Kmae5Bwg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fcthz2ozkcn32hm1sb4r.png" height="200px">
 
-Used to get started in Python, Django Web development.
-
-
-
 <p float="left">
 <img src="https://user-images.githubusercontent.com/45560312/130338826-f3c308ae-23b6-4fa3-b8db-78151861de8c.png" width="500" height="150">
 <img src="https://user-images.githubusercontent.com/45560312/130338832-9a221ab5-cd4b-4194-87a2-4974e6400443.png" width="200" height="150">
